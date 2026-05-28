@@ -1,0 +1,6 @@
+{
+  "name": "Desfile Escolar - Galeria",
+  "description": "Galeria de moda interativa com comentários em tempo real, votações e leitura de QR Codes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
